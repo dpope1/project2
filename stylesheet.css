@@ -1,0 +1,125 @@
+.backgroundofvans {
+	font-family: Anton;
+	font-size: 100px;
+	color: black;
+	background-color: red;
+}
+.qualityofvans {
+	font-family: Anton;
+	font-size: 100px;
+	color: black;
+	background-color: red;
+}
+.rebelling {
+	font-family: 'Aldrich', sans-serif;
+	font-size: 100px;
+	color: black;
+	background-color: red;
+}
+.grid {
+	display:grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 50px;
+	margin-left: 300px;
+	margin-right: 300px;
+	text-align: center;
+}
+.grida {
+	display:grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 50px;
+	margin-left: 100px;
+	margin-right: 300px;
+	text-align: center;
+	margin-bottom: 70px
+}
+.gridb {
+	display:grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 50px;
+	margin-left: 200px;
+	margin-right: 200px;
+	text-align: center;
+}
+.gridc{
+	display:grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-gap: 50px;
+	margin-left: 175px;
+	margin-right: 300px;
+	text-align: center;
+}
+.gridd{
+	display:grid;
+	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-gap: 50px;
+	margin-left: 175px;
+	margin-right: 300px;
+	text-align: center;
+}
+.border {
+	border:10px solid;
+	color: black;
+}
+.bordera {
+	border:10px solid;
+	color: black;
+}.borderb {
+	border:10px solid;
+	color: black;
+}.borderc {
+	border:10px solid;
+	color: black;
+}.borderd {
+	border:10px solid;
+	color: black;
+}
+.bordere {
+	border:10px solid;
+	color: black;
+}
+.borderf {
+	border:5px solid;
+	color: black;
+}
+.borderg {
+	border:5px solid;
+	color: black;
+}
+	.ul {
+		font-size: 90px;
+	}
+		
+.priceofvans {
+	font-family:'Spicy Rice', cursive;
+	font-size: 90px;
+	color: black;
+	background-color: red;
+}
+.p2 {
+	font-family: Brush Script Std;
+	font-size: 20px;
+}
+.p3 {
+	font-size: 20px;
+}
+
+.item {
+	grid-column: span 1;
+}
+.actions {
+	text-align: center;
+	margin-bottom:60px;
+}
+.actions a {
+	background-color: white;
+	border-radius: 20px;
+	color: #FF0000;
+	font-family:monospace;
+	font-size:25px;
+	display: inline-block;
+	margin: 20px;
+	padding: 15px;
+	text-align: center;
+	text-decoration: none;
+	text-transform: uppercase;
