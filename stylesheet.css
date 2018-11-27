@@ -51,11 +51,12 @@
 }
 .gridd{
 	display:grid;
-	grid-template-columns: 1fr 1fr 1fr 1fr;
+	grid-template-columns: 1fr 1fr ;
 	grid-gap: 50px;
 	margin-left: 175px;
 	margin-right: 300px;
 	text-align: center;
+	font-size: 28px;
 }
 .border {
 	border:10px solid;
